@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+i<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1>No Offers Available Currently</h1>   
+         <h1>Currently No Offers Available</h1>   
 	 
 
     </section>    
